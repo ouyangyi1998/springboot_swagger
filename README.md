@@ -1,5 +1,5 @@
 # springboot联动swagger，实现生成api
-- 代码来自github
+- 代码来自github @forezp大佬 感谢
 - swagger通过注解就可以实现ui界面的api，非常方便
 - 通过@Configuration注解，表明它是一个配置类
 - @EnableSwagger2开启swagger2，apiINfo()配置一些基本的信息，apis()指定扫描的包会生成文档。
